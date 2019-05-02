@@ -1,0 +1,3 @@
+/Users/priyakudva/Desktop/CIS541/Proj1A/1C/CMakeFiles/rebuild_cache.dir
+/Users/priyakudva/Desktop/CIS541/Proj1A/1C/CMakeFiles/edit_cache.dir
+/Users/priyakudva/Desktop/CIS541/Proj1A/1C/CMakeFiles/project1C.dir
