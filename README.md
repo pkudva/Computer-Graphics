@@ -1,2 +1,2 @@
-# CIS541
-Graphics at University of Oregon
+# Computer Graphics
+Computer Graphics class Winter 2019
