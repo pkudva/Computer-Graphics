@@ -1,0 +1,2 @@
+This project could not be accomplished without the help of Peter Shirley's books, Raytracing in One Weekend and Raytracing the Next Week.
+This project was solely meant for educational purposes as a class project, not for distribution as a product.
